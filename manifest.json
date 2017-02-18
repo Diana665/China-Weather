@@ -1,0 +1,22 @@
+{
+   "background": {
+      "page": "background.html"
+   },
+   "browser_action": {
+      "default_icon": "/images/BLoading.png",
+      "default_popup": "pop.html"
+   },
+   "default_locale": "zh_CN",
+   "description": "__MSG_chrome_extension_description__",
+   "icons": {
+      "128": "/images/icon_128.png",
+      "16": "/images/icon_16.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC+9h317KaFjrfcfAZV902hGLhx+zT1VIZfe5Ox+qgFJJWCh/zPjLLDFLJAdYo2kSH2NEv5S517XazP9mZhUaAzg34YQhOCKxlAEHw9m2Zf6Nw/VZfOVW/xFj/oXjZEOZuwGQuTG9qRILoyHMa2aFZVzShM2EOTmASRKROS4t4JSwIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_chrome_extension_name__",
+   "options_page": "help/optionsHelp.html",
+   "permissions": [ "tabs", "http://*/*", "https://*/*", "storage", "notifications", "webRequest", "webRequestBlocking", "management" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "5.3.8"
+}

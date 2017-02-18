@@ -1,0 +1,188 @@
+{
+   "PM25Index": {
+      "message": "PM2.5 index："
+   },
+   "PMNull": {
+      "message": "No"
+   },
+   "afterTomorrow": {
+      "message": "Acquired: "
+   },
+   "autoCity": {
+      "message": "Auto"
+   },
+   "chrome_extension_description": {
+      "message": "Chinese weather forecasts,first skinnable dynamic extension,weather forecast live on national(temperature/humidity/wind/PM2.5)"
+   },
+   "chrome_extension_name": {
+      "message": "China Weather Forecast"
+   },
+   "chrome_extension_short_name": {
+      "message": "China Weather Forecast"
+   },
+   "cityFail": {
+      "message": "Get city list fail!"
+   },
+   "cityManage": {
+      "message": "Weather Manage:"
+   },
+   "commitSuccess": {
+      "message": "Your message sent successfully, if you leave contact information, we will replay to you!"
+   },
+   "contactUs": {
+      "message": "Welcome to our comments and suggestions page. Every word you leave will be used to improve our services！QQ:223024092"
+   },
+   "contactWay": {
+      "message": "Contact:"
+   },
+   "curTemp": {
+      "message": "Now the temperature: "
+   },
+   "dateUnit": {
+      "message": "日"
+   },
+   "defaultSkin": {
+      "message": "Default"
+   },
+   "detail": {
+      "message": "More"
+   },
+   "dressingIndex": {
+      "message": "Clad Index:"
+   },
+   "fine": {
+      "message": "fine"
+   },
+   "good": {
+      "message": "good"
+   },
+   "holidayFail": {
+      "message": "Get holiday fail!"
+   },
+   "huangliFail": {
+      "message": "Get almanac fail!"
+   },
+   "humidity": {
+      "message": "humidity,"
+   },
+   "isLastCityError": {
+      "message": "Is Last City don't remove!"
+   },
+   "isSundayLast": {
+      "message": "First day of week is monday"
+   },
+   "lastRefresh": {
+      "message": "Last refresh time: "
+   },
+   "lightIndex": {
+      "message": "Ultraviolet Index:"
+   },
+   "lightPollution": {
+      "message": "lightPollution"
+   },
+   "middleLevelPollution": {
+      "message": "middleLevelPollution"
+   },
+   "monthUnit": {
+      "message": "月"
+   },
+   "newTabPlus": {
+      "message": "New Tab Plus"
+   },
+   "notification": {
+      "message": ""
+   },
+   "openNewTab": {
+      "message": "Open New Tab:"
+   },
+   "openNotification": {
+      "message": "Open Notification："
+   },
+   "permanentCalendar": {
+      "message": "Permanent Calendar"
+   },
+   "pm25Fail": {
+      "message": "Get PM2.5 fail!"
+   },
+   "pmTitle": {
+      "message": "PM2.5: "
+   },
+   "pmUrl": {
+      "message": "&nbsp;&nbsp;▶"
+   },
+   "selectCity": {
+      "message": "Set City:"
+   },
+   "severeContamination": {
+      "message": "severeContamination"
+   },
+   "severePollution": {
+      "message": "severePollution"
+   },
+   "skinFail": {
+      "message": "Get skin list fail!"
+   },
+   "skinManage": {
+      "message": "Skin theme select:"
+   },
+   "submit": {
+      "message": "Submit"
+   },
+   "suggest": {
+      "message": "&middot; Suggest:"
+   },
+   "tempIsNull": {
+      "message": "No Data"
+   },
+   "tempNull": {
+      "message": "No"
+   },
+   "today": {
+      "message": "Today: "
+   },
+   "tomorrow": {
+      "message": "Tomorrow: "
+   },
+   "trvalIndex": {
+      "message": "Tourist Index:"
+   },
+   "update": {
+      "message": "&middot; Update"
+   },
+   "updateFail": {
+      "message": "Get update data fail!"
+   },
+   "washIndex": {
+      "message": "Carwash Index:"
+   },
+   "weather": {
+      "message": "weather"
+   },
+   "weatherFail": {
+      "message": "Get weather fail!"
+   },
+   "weekDate_0": {
+      "message": "Sun."
+   },
+   "weekDate_1": {
+      "message": "Mon."
+   },
+   "weekDate_2": {
+      "message": "Tue."
+   },
+   "weekDate_3": {
+      "message": "Wed."
+   },
+   "weekDate_4": {
+      "message": "Thu."
+   },
+   "weekDate_5": {
+      "message": "Fri."
+   },
+   "weekDate_6": {
+      "message": "Sat."
+   },
+   "yearUnit": {
+      "message": "年"
+   }
+}

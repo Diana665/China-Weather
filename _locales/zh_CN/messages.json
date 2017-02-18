@@ -1,0 +1,188 @@
+{
+   "PM25Index": {
+      "message": "PM2.5指数："
+   },
+   "PMNull": {
+      "message": "无"
+   },
+   "afterTomorrow": {
+      "message": "后天： "
+   },
+   "autoCity": {
+      "message": "自动"
+   },
+   "chrome_extension_description": {
+      "message": "中国天气预报，首款可换肤动态天气插件，实时预报全国实况天气（气温/湿度/风向风力/空气质量PM2.5）。另含万年历，农历，阳历，月历，节日，八字等日历功能"
+   },
+   "chrome_extension_name": {
+      "message": "中国天气预报"
+   },
+   "chrome_extension_short_name": {
+      "message": "中国天气预报"
+   },
+   "cityFail": {
+      "message": "城市数据获取失败!"
+   },
+   "cityManage": {
+      "message": "天气城市管理："
+   },
+   "commitSuccess": {
+      "message": "您的留言发送成功，如果您留下联系方式，我们会尽快回复你！"
+   },
+   "contactUs": {
+      "message": "请您留言，帮助插件做的更好！QQ群：223024092"
+   },
+   "contactWay": {
+      "message": "联系方式："
+   },
+   "curTemp": {
+      "message": "现在气温： "
+   },
+   "dateUnit": {
+      "message": "日"
+   },
+   "defaultSkin": {
+      "message": "默认"
+   },
+   "detail": {
+      "message": "详"
+   },
+   "dressingIndex": {
+      "message": "穿衣指数："
+   },
+   "fine": {
+      "message": "优"
+   },
+   "good": {
+      "message": "良"
+   },
+   "holidayFail": {
+      "message": "假日信息获取失败!"
+   },
+   "huangliFail": {
+      "message": "黄历信息获取失败!"
+   },
+   "humidity": {
+      "message": "湿度"
+   },
+   "isLastCityError": {
+      "message": "最后的城市不能删除！"
+   },
+   "isSundayLast": {
+      "message": "周首日为周一："
+   },
+   "lastRefresh": {
+      "message": "上次刷新时间： "
+   },
+   "lightIndex": {
+      "message": "紫外线指数："
+   },
+   "lightPollution": {
+      "message": "轻度污染"
+   },
+   "middleLevelPollution": {
+      "message": "中度污染"
+   },
+   "monthUnit": {
+      "message": "月"
+   },
+   "newTabPlus": {
+      "message": "微度新标签页"
+   },
+   "notification": {
+      "message": ""
+   },
+   "openNewTab": {
+      "message": "启用新标签页："
+   },
+   "openNotification": {
+      "message": "开启桌面通知："
+   },
+   "permanentCalendar": {
+      "message": "万年历"
+   },
+   "pm25Fail": {
+      "message": "PM2.5数据获取失败!"
+   },
+   "pmTitle": {
+      "message": "PM2.5： "
+   },
+   "pmUrl": {
+      "message": "&nbsp;&nbsp;▶"
+   },
+   "selectCity": {
+      "message": "请选择城市："
+   },
+   "severeContamination": {
+      "message": "严重污染"
+   },
+   "severePollution": {
+      "message": "重度污染"
+   },
+   "skinFail": {
+      "message": "皮肤数据获取失败!"
+   },
+   "skinManage": {
+      "message": "皮肤主题选择："
+   },
+   "submit": {
+      "message": "提 交"
+   },
+   "suggest": {
+      "message": "&middot; 反馈建议"
+   },
+   "tempIsNull": {
+      "message": "暂无实况"
+   },
+   "tempNull": {
+      "message": "无"
+   },
+   "today": {
+      "message": "今天： "
+   },
+   "tomorrow": {
+      "message": "明天： "
+   },
+   "trvalIndex": {
+      "message": "旅游指数："
+   },
+   "update": {
+      "message": "&middot; 更新说明"
+   },
+   "updateFail": {
+      "message": "更新数据获取失败!"
+   },
+   "washIndex": {
+      "message": "洗车指数："
+   },
+   "weather": {
+      "message": "天气"
+   },
+   "weatherFail": {
+      "message": "天气数据获取失败!"
+   },
+   "weekDate_0": {
+      "message": "周日"
+   },
+   "weekDate_1": {
+      "message": "周一"
+   },
+   "weekDate_2": {
+      "message": "周二"
+   },
+   "weekDate_3": {
+      "message": "周三"
+   },
+   "weekDate_4": {
+      "message": "周四"
+   },
+   "weekDate_5": {
+      "message": "周五"
+   },
+   "weekDate_6": {
+      "message": "周六"
+   },
+   "yearUnit": {
+      "message": "年"
+   }
+}
